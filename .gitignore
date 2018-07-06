@@ -1,0 +1,20 @@
+# ignore Intellij-IDEA files
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.settings
+*.project
+*.idea
+*.jar
+
+
+# ignore logs
+*.log
+
+# ignore target directories
+target/
+
+#ignore node modules
+node_modules/
+out/

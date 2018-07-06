@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="3">
+        <file>
+            <url>src/lab/AddLabSamples.java</url>
+            <bookmark id="3">
+                <name/>
+                <line>664</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/lab/AddProductsQC.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>614</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/production/AddMaterials.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>500</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/gui/VergerMain.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/lab/Formulation.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/lab/viewProducts.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/admin/AdminWellcome.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/admin/Editing.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/admin/Addmindoc.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/lab/ViewProductsQC.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/controller/FileHandler.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/controller/FileHandleingClient.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/lab/LabrotarySampeling.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/controller/ApiConnector.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/admin/ArchiveDocumentViewer.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/admin/Archive.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/admin/tree.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/admin/Documentation.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/lab/Left_20px.png</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/controller/InventorySystem.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/lab/QCPlatform.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/production/Materials.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/production/Stocks.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/lab/AddProductsQC.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/editing/COA.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/controller/COAFileCreater.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/production/AddMaterials.java</file>
+            <file>file:/home/neeshad/Desktop/Blimpit_GIT/blimpit-verger/UI/Inventory%20System_ver5/src/lab/AddLabSamples.java</file>
+        </group>
+    </open-files>
+</project-private>
